@@ -1,0 +1,1 @@
+# Smart-Generative-AI-app
