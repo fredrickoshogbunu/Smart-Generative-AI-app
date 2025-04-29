@@ -1,6 +1,6 @@
 # Smart-Generative-AI-app
 
-Smart GenAI Web Application System built using LLM, RAG, Python, Zookeeper, Docker, Kafka, React and Spark by Fredrick Oshogbunu 
+Smart GenAI Web Application System built using LLM, RAG, Python and Docker.
 
 This project demonstrates a smart generative AI-based solution that integrates information from Kafka, React, and Spark folders using a Retrieval Augmented Generation (RAG) and LLM approach. The solution includes components for:
 
